@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8000', // URL do seu FastAPI
+  baseURL: 'https://cadastro-usuarios-crud.onrender.com', // URL do seu FastAPI
 });
 
 export default api;
