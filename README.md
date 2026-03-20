@@ -7,8 +7,8 @@ Este projeto é um desafio técnico que consiste em um sistema de cadastro compl
 
 ## 🚀 Demonstração (Deploys)
 
-- **Frontend Online:** [Link da Vercel aqui]
-- **API Online (Swagger):** [Link do Render aqui]/docs
+- **Frontend Online:** https://cadastro-usuarios-crud.vercel.app/
+- **API Online (Swagger):** https://cadastro-usuarios-crud.onrender.com/docs
 
 ---
 
